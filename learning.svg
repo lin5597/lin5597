@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600px" height="130px">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background-color: transparent;
+
+          width: 250px;
+          height: 60px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: black;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-size: 12px
+        }
+      </style>
+
+      <div class="container">
+        <h3>💡learning:</h3>
+      </div>
+      <div class="container">
+        <ul>
+        <li>Program in Go / Rust</li>
+        <li>Develop Microservices / DevOps</li>
+        <li>Use Mongodb</li>
+        <li>Understand OS / Computer Network / Compilers / Database</li>
+        </ul>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

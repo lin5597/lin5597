@@ -1,25 +1,11 @@
 <div>
-  <img src="hello.svg" style="width: 100%;" alt="Click to see the source>
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 <div>
-    <div style="float:left">
-        <h3>⚡skills:</h3>
-        <ul>
-        <li>Program in C++ / TypeScript</li>
-        <li>Develop Backend Server / Game / Web / Network / Tools</li>
-        <li>Use V8 / Nodejs / React / Mysql / Redis</li>
-        <li>Understand Basic Algorithms / Data Structure</li>
-        </ul>
-    </div>
-    <div style="float:right">
-        <h3>💡learning:</h3>
-        <ul>
-        <li>Program in Go / Rust</li>
-        <li>Develop Microservices / DevOps</li>
-        <li>Use Mongodb</li>
-        <li>Understand OS / Computer Network / Compilers / Database</li>
-        </ul>
-    </div>
+  <img src="skills.svg" align="left" width="100%">
+</div>
+<div>
+  <img src="learning.svg" align="right" width="100%">
 </div>
 
 <!--

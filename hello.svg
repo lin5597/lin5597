@@ -42,7 +42,7 @@
       </style>
 
       <div class="container">
-        <tspan y="0"><h2>Hi there<div class="hi">👋</div></h2></tspan>
+        <h2>Hi there<div class="hi">👋</div></h2>
       </div>
       <div class="container">
         My name is x10, developing backend server for a game company.
