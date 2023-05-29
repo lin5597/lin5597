@@ -2,10 +2,10 @@
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 <div>
-  <img src="skills.svg" align="left" width="50%">
+  <img src="skills.svg" align="left" width="45%">
 </div>
 <div>
-  <img src="learning.svg" align="right" width="50%">
+  <img src="learning.svg" align="right" width="45%">
 </div>
 
 <!--
