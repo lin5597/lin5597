@@ -1,7 +1,9 @@
-## Hi there 👋
-
-My name is x10, developing backend server for a game company.
-
+<div>
+  <img src="hello.svg" style="width: 100%;">
+</div>
+<div align="center">
+    My name is x10, developing backend server for a game company.
+</div>
 <div>
     <div style="float:left">
         <h3>⚡skills:</h3>
@@ -9,26 +11,24 @@ My name is x10, developing backend server for a game company.
         <li>Program in C++ / TypeScript</li>
         <li>Develop Backend Server / Game / Web / Network / Tools</li>
         <li>Use V8 / Nodejs / React / Mysql / Redis</li>
-        <li>Understand basic algorithms / data structure</li>
+        <li>Understand Basic Algorithms / Data Structure</li>
         </ul>
     </div>
     <div style="float:right">
         <h3>💡learning:</h3>
         <ul>
         <li>Program in Go / Rust</li>
-        <li>Develop microservices / DevOps</li>
-        <li>Use mongodb</li>
-        <li>Understand OS / computer network / compilers / database</li>
+        <li>Develop Microservices / DevOps</li>
+        <li>Use Mongodb</li>
+        <li>Understand OS / Computer Network / Compilers / Database</li>
         </ul>
     </div>
 </div>
 
 <!--
-⚡skills:
-- Program in C++ / Go / TypeScript
-- Develop Backend Server / Game / Web / Network / Tools
-- Use V8 / Nodejs / React / Mysql / Redis
+    reference blog: https://pragmaticpineapple.com/adding-custom-html-and-css-to-github-readme/
 -->
+
 <!--
 **lin5597/lin5597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
