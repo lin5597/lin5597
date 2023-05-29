@@ -1,8 +1,5 @@
 <div>
-  <img src="hello.svg" style="width: 100%;">
-</div>
-<div align="center">
-    My name is x10, developing backend server for a game company.
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source>
 </div>
 <div>
     <div style="float:left">
